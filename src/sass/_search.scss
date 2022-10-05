@@ -11,7 +11,7 @@
   height: 60px;
   width: 100%;
 
-  background-color: #4056b4;
+  background-color: #5a8b61;
 }
 
 .search-form {
@@ -39,9 +39,8 @@
   justify-content: center;
   align-items: center;
 
-  width: 30px;
+  width: 50px;
   height: 100%;
-  // font-size: 17px;
 
   border-radius: 0px 3px 3px 0px;
 
@@ -50,14 +49,15 @@
   border: none;
   cursor: pointer;
 
-  background-color: #f1eff1;
+  background-color: #f9dc7c;
 
   &:hover {
-    background-color: #e2e2e2;
+    background-color: #f8d666;
   }
 }
 
-.search__img {
+.icon {
   width: 22px;
   height: 22px;
+  fill: #fff;
 }
